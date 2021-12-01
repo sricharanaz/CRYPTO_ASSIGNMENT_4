@@ -14,6 +14,7 @@ COMPILATION:
   
   
   ./elg abcdef
+  
        Decrypted result: abcdef
 
 cat cipher1.txt
